@@ -43,10 +43,7 @@
 <script>
     export default {
         name: 'list',
-        mounted() {
-            if (this.books.length) {
-                return;
-            }            
+        mounted() {       
             this.$store.dispatch('getBooks');
         },
         computed: {
