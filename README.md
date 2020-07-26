@@ -7,7 +7,7 @@
 1) Клонировать репозиторий:
 
 ```
-git clone https://github.com/IgnatBulychov/elp-back.git
+git clone https://github.com/IgnatBulychov/library.git
 ```
 
 2) Установить зависимости PHP:
