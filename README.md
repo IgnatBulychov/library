@@ -25,7 +25,7 @@ npm install
 3) Скомпилировать JS:
 
 ```
-npm run dev
+npm run prod
 ```
 
 4) Создать новый файл конфигурации:
